@@ -18,7 +18,7 @@
 
 In style.css file i write all the code for the styling . 
 
-- i totally avoid inline & internal styling  methods in this project 06
+- i used internal styling  methods in this project 06 
 
 - i have used different selectors & classes to target the elements and style them as per the design.
 
